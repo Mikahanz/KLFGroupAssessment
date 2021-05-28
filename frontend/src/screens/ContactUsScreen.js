@@ -94,7 +94,7 @@ const ContactUsScreen = ({ history }) => {
           />
         </Form.Group>
         <Button type='submit' variant='primary'>
-          Register
+          Send
         </Button>
       </Form>
     </FormContainer>
